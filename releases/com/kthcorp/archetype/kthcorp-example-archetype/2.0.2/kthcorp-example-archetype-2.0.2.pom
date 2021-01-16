@@ -4,7 +4,7 @@
 
   <groupId>com.kthcorp.archetype</groupId>
   <artifactId>kthcorp-example-archetype</artifactId>
-  <version>2.0.1</version>
+  <version>2.0.2</version>
   <packaging>maven-archetype</packaging>
 
   <name>kthcorp-example-archetype</name>
