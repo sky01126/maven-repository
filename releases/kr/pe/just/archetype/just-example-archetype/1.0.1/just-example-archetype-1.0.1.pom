@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>kr.pe.just.archetype</groupId>
-  <artifactId>just-archetype-example-archetype</artifactId>
+  <artifactId>just-example-archetype</artifactId>
   <version>1.0.1</version>
   <packaging>maven-archetype</packaging>
 
-  <name>just-archetype-example-archetype</name>
+  <name>just-example-archetype</name>
 
   <build>
     <extensions>
@@ -28,9 +28,9 @@
     </pluginManagement>
   </build>
 
-  <description>just-archetype-example project for Spring Boot</description>
+  <description>just-example project for Spring Boot</description>
 
-  <url>https://spring.io/projects/spring-boot/just-archetype-example</url>
+  <url>https://spring.io/projects/spring-boot/just-example</url>
 
   <developers>
     <developer>
@@ -49,6 +49,6 @@
   </licenses>
 
   <scm>
-    <url>https://github.com/spring-projects/spring-boot/just-archetype-example</url>
+    <url>https://github.com/spring-projects/spring-boot/just-example</url>
   </scm>
 </project>
