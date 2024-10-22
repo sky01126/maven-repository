@@ -3,18 +3,18 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>kr.pe.just.archetype</groupId>
-  <artifactId>just-advanced-security-archetype</artifactId>
-  <version>1.0.7</version>
+  <artifactId>just-example-archetype</artifactId>
+  <version>3.3.4</version>
   <packaging>maven-archetype</packaging>
 
-  <name>just-advanced-security-archetype</name>
+  <name>just-example-archetype</name>
 
   <build>
     <extensions>
       <extension>
         <groupId>org.apache.maven.archetype</groupId>
         <artifactId>archetype-packaging</artifactId>
-        <version>3.2.1</version>
+        <version>3.3.0</version>
       </extension>
     </extensions>
 
@@ -22,21 +22,21 @@
       <plugins>
         <plugin>
           <artifactId>maven-archetype-plugin</artifactId>
-          <version>3.2.1</version>
+          <version>3.3.0</version>
         </plugin>
       </plugins>
     </pluginManagement>
   </build>
 
-  <description>just-advanced-security project for Spring Boot</description>
+  <description>just-example project for Spring Boot</description>
 
-  <url>https://spring.io/projects/spring-boot/just-advanced-security</url>
+  <url>https://spring.io/projects/spring-boot/just-example</url>
 
   <developers>
     <developer>
-      <name>Pivotal</name>
-      <email>info@pivotal.io</email>
-      <organization>Pivotal Software, Inc.</organization>
+      <name>Spring</name>
+      <email>ask@spring.io</email>
+      <organization>VMware, Inc.</organization>
       <organizationUrl>https://www.spring.io</organizationUrl>
     </developer>
   </developers>
@@ -49,6 +49,6 @@
   </licenses>
 
   <scm>
-    <url>https://github.com/spring-projects/spring-boot/just-advanced-security</url>
+    <url>https://github.com/spring-projects/spring-boot/just-example</url>
   </scm>
 </project>
